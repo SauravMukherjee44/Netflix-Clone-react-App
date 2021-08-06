@@ -39,6 +39,11 @@
 * [Contact](#Authors)
 * [Acknowledgements](#acknowledgements)
 
+## 📌 Sneak Peek  :
+![HOME](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(254).png)
+![HOME](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(256).png)
+![Shows](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(258).png)
+![HOME](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(257).png)
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
