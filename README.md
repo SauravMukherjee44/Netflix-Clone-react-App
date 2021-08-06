@@ -25,6 +25,9 @@
   <a href="https://github.com/SauravMukherjee44/Netflix-Clone.git">
     <p align="center"> <img src="https://cdn.vox-cdn.com/thumbor/Yq1Vd39jCBGpTUKHUhEx5FfxvmM=/39x0:3111x2048/1200x800/filters:focal(39x0:3111x2048)/cdn.vox-cdn.com/uploads/chorus_image/image/49901753/netflixlogo.0.0.png" alt="React-logo" height="150" width="200"> </p>
   </a>
+  <p align="center">
+  <a href="https://netflix-clone-app-17f17.firebaseapp.com/" target="_blank"> VISIT NOW 🚀</a>
+  </p>
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
