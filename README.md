@@ -29,6 +29,13 @@
   <a href="https://netflix-clone-app-17f17.firebaseapp.com/" target="_blank"> VISIT NOW 🚀</a>
   </p>
 <!-- TABLE OF CONTENTS -->
+
+## 📌 Sneak Peek  :
+![HOME](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(254).png)
+![HOME](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(256).png)
+![Shows](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(258).png)
+![HOME](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(257).png)
+<!-- ABOUT THE PROJECT -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -39,12 +46,6 @@
 * [Contact](#Authors)
 * [Acknowledgements](#acknowledgements)
 
-## 📌 Sneak Peek  :
-![HOME](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(254).png)
-![HOME](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(256).png)
-![Shows](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(258).png)
-![HOME](https://github.com/SauravMukherjee44/Netflix-Clone-App/blob/68b06e2a4ce9524a7a6ae26460650cbae55c6bc4/public/Screenshot%20(257).png)
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
