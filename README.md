@@ -82,9 +82,9 @@ Give a ⭐️ if you like this project!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/SauravMukherjee44/Netflix-Clone.svg?style=flat-square
-[contributors-url]: https://github.com/SauravMukherjee44/Netflix-Clone/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SauravMukherjee44/Netflix-Clone.svg?style=flat-square
-[forks-url]: https://github.com/SauravMukherjee44/Netflix-Clone/network/members
-[stars-shield]: https://img.shields.io/github/stars/SauravMukherjee44/Netflix-Clone.svg?style=flat-square
-[stars-url]: https://github.com/SauravMukherjee44/Netflix-Clone/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/SauravMukherjee44/Netflix-Clone-App.svg?style=flat-square
+[contributors-url]: https://github.com/SauravMukherjee44/Netflix-Clone-App/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SauravMukherjee44/Netflix-Clone-App.svg?style=flat-square
+[forks-url]: https://github.com/SauravMukherjee44/Netflix-Clone-App/network/members
+[stars-shield]: https://img.shields.io/github/stars/SauravMukherjee44/Netflix-Clone-App.svg?style=flat-square
+[stars-url]: https://github.com/SauravMukherjee44/Netflix-Clone-App/stargazers
