@@ -43,9 +43,9 @@
 ## About The Project
 
 Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
-## Live Link (Heroku)
+## Live Link (Firebase)
 
-[Click Here]
+[Click Here](https://netflix-clone-app-17f17.firebaseapp.com/)
   ## Built With
 
 - React
@@ -63,7 +63,7 @@ Netflix clone App built with React and Redux. The objective of this project is t
 - React-icons
 - Axios
 - Prop-types
-- [Heroku](https://jassi-netflix-clone.herokuapp.com/)
+- [firebase](https://netflix-clone-app-17f17.firebaseapp.com/)
 
   <!-- CONTACT -->
 
