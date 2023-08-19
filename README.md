@@ -1,8 +1,7 @@
 # Netflix Clone
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-<p> <a href="https://github.com/nagarajpandith/netflix-clone">Old Project</a> of Netflix-clone rebuilt using Next, Tailwind and TMDB API.</p>
+<p> Netflix-clone rebuilt using Next, Tailwind and TMDB API.</p>
 <h3><a href="https://clone-netflix-next-js.vercel.app/">Have a look at Live Demo</a></h3>
-<img src="https://raw.githubusercontent.com/nagarajpandith/netflix-2.0/master/github/Netflix-Demo.jpeg?token=GHSAT0AAAAAABQJ6S5IS4XELJZRJY4Q3YHCYPDVSYA" />
 
 ## Tech used:
 - [Next.js](https://nextjs.org/)
