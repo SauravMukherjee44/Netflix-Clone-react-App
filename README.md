@@ -3,6 +3,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <p> Netflix-clone rebuilt using Next, Tailwind and TMDB API.</p>
 <h3><a href="https://clone-netflix-next-js.vercel.app/">Have a look at Live Demo</a></h3>
 
+<img height="40%" src= "https://pngimg.com/uploads/netflix/netflix_PNG11.png">
+<br>
+
 ## Tech used:
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/) / [JIT Compiler](https://v2.tailwindcss.com/docs/just-in-time-mode)
